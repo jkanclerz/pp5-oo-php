@@ -1,0 +1,8 @@
+{
+    "name": "jkanclerz/weather-demo",
+    "autoload": {
+        "psr-4": {
+            "": "src/" 
+        }
+    }
+}
